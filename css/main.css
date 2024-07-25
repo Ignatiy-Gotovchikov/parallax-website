@@ -96,7 +96,6 @@ body{
 .layers__title{
 	font-size: calc(var(--index)*2.5);
 	letter-spacing: calc(var(--index)/2.25);
-	/* margin-bottom: 35px; */
 }
 
 .layers__caption{
